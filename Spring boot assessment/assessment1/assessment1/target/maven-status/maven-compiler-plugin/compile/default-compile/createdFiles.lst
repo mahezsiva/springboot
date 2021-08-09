@@ -1,0 +1,7 @@
+com\org\qualifiers\assessment1\messageservice\MessageProcessor.class
+com\org\qualifiers\assessment1\messageservice\MessageService.class
+com\org\qualifiers\assessment1\messageservice\MessageProcessorImpl.class
+com\org\qualifiers\assessment1\messageservice\TestApplication.class
+com\org\qualifiers\assessment1\messageservice\EmailService.class
+com\org\qualifiers\assessment1\messageservice\AppConfiguration.class
+com\org\qualifiers\assessment1\Assessment1Application.class
